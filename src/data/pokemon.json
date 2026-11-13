@@ -1,0 +1,12824 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "slug": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 49,
+      "def": 49,
+      "spa": 65,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "slug": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 62,
+      "def": 63,
+      "spa": 80,
+      "spd": 80,
+      "spe": 60
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "slug": "venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 83,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "slug": "charmander",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 39,
+      "atk": 52,
+      "def": 43,
+      "spa": 60,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "slug": "charmeleon",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 64,
+      "def": 58,
+      "spa": 80,
+      "spd": 65,
+      "spe": 80
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "slug": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "slug": "squirtle",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 48,
+      "def": 65,
+      "spa": 50,
+      "spd": 64,
+      "spe": 43
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "slug": "wartortle",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 59,
+      "atk": 63,
+      "def": 80,
+      "spa": 65,
+      "spd": 80,
+      "spe": 58
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "slug": "blastoise",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "atk": 83,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 78
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "slug": "caterpie",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 35,
+      "spa": 20,
+      "spd": 20,
+      "spe": 45
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "slug": "metapod",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 20,
+      "def": 55,
+      "spa": 25,
+      "spd": 25,
+      "spe": 30
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "slug": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 50,
+      "spa": 90,
+      "spd": 80,
+      "spe": 70
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "slug": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 35,
+      "def": 30,
+      "spa": 20,
+      "spd": 20,
+      "spe": 50
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "slug": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 25,
+      "def": 50,
+      "spa": 25,
+      "spd": 25,
+      "spe": 35
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "slug": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 40,
+      "spa": 45,
+      "spd": 80,
+      "spe": 75
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "slug": "pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 35,
+      "spe": 56
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "slug": "pidgeotto",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "atk": 60,
+      "def": 55,
+      "spa": 50,
+      "spd": 50,
+      "spe": 71
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "slug": "pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 80,
+      "def": 75,
+      "spa": 70,
+      "spd": 70,
+      "spe": 101
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "slug": "rattata",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 56,
+      "def": 35,
+      "spa": 25,
+      "spd": 35,
+      "spe": 72
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "slug": "raticate",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 81,
+      "def": 60,
+      "spa": 50,
+      "spd": 70,
+      "spe": 97
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "slug": "spearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 60,
+      "def": 30,
+      "spa": 31,
+      "spd": 31,
+      "spe": 70
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "slug": "fearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 65,
+      "spa": 61,
+      "spd": 61,
+      "spe": 100
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "slug": "ekans",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 60,
+      "def": 44,
+      "spa": 40,
+      "spd": 54,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "slug": "arbok",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 69,
+      "spa": 65,
+      "spd": 79,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "slug": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "slug": "raichu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 55,
+      "spa": 90,
+      "spd": 80,
+      "spe": 110
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "slug": "sandshrew",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 85,
+      "spa": 20,
+      "spd": 30,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "slug": "sandslash",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 110,
+      "spa": 45,
+      "spd": 55,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "slug": "nidoran-f",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 47,
+      "def": 52,
+      "spa": 40,
+      "spd": 40,
+      "spe": 41
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "slug": "nidorina",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 62,
+      "def": 67,
+      "spa": 55,
+      "spd": 55,
+      "spe": 56
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "slug": "nidoqueen",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 92,
+      "def": 87,
+      "spa": 75,
+      "spd": 85,
+      "spe": 76
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "slug": "nidoran-m",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 46,
+      "atk": 57,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 50
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "slug": "nidorino",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "atk": 72,
+      "def": 57,
+      "spa": 55,
+      "spd": 55,
+      "spe": 65
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "slug": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 81,
+      "atk": 102,
+      "def": 77,
+      "spa": 85,
+      "spd": 75,
+      "spe": 85
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "slug": "clefairy",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 45,
+      "def": 48,
+      "spa": 60,
+      "spd": 65,
+      "spe": 35
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "slug": "clefable",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 70,
+      "def": 73,
+      "spa": 95,
+      "spd": 90,
+      "spe": 60
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "slug": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 41,
+      "def": 40,
+      "spa": 50,
+      "spd": 65,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "slug": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 76,
+      "def": 75,
+      "spa": 81,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "slug": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 115,
+      "atk": 45,
+      "def": 20,
+      "spa": 45,
+      "spd": 25,
+      "spe": 20
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "slug": "wigglytuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 140,
+      "atk": 70,
+      "def": 45,
+      "spa": 85,
+      "spd": 50,
+      "spe": 45
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "slug": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spa": 30,
+      "spd": 40,
+      "spe": 55
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "slug": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 70,
+      "spa": 65,
+      "spd": 75,
+      "spe": 90
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "slug": "oddish",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 50,
+      "def": 55,
+      "spa": 75,
+      "spd": 65,
+      "spe": 30
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "slug": "gloom",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 70,
+      "spa": 85,
+      "spd": 75,
+      "spe": 40
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "slug": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 85,
+      "spa": 110,
+      "spd": 90,
+      "spe": 50
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "slug": "paras",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 70,
+      "def": 55,
+      "spa": 45,
+      "spd": 55,
+      "spe": 25
+    },
+    "eggGroups": [
+      "bug",
+      "plant"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "slug": "parasect",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 80,
+      "spa": 60,
+      "spd": 80,
+      "spe": 30
+    },
+    "eggGroups": [
+      "bug",
+      "plant"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "slug": "venonat",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 50,
+      "spa": 40,
+      "spd": 55,
+      "spe": 45
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "slug": "venomoth",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 60,
+      "spa": 90,
+      "spd": 75,
+      "spe": 90
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "slug": "diglett",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 10,
+      "atk": 55,
+      "def": 25,
+      "spa": 35,
+      "spd": 45,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "slug": "dugtrio",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 100,
+      "def": 50,
+      "spa": 50,
+      "spd": 70,
+      "spe": 120
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "slug": "meowth",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spa": 40,
+      "spd": 40,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "slug": "persian",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 70,
+      "def": 60,
+      "spa": 65,
+      "spd": 65,
+      "spe": 115
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "slug": "psyduck",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 52,
+      "def": 48,
+      "spa": 65,
+      "spd": 50,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "slug": "golduck",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 78,
+      "spa": 95,
+      "spd": 80,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "slug": "mankey",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 80,
+      "def": 35,
+      "spa": 35,
+      "spd": 45,
+      "spe": 70
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "slug": "primeape",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 105,
+      "def": 60,
+      "spa": 60,
+      "spd": 70,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "slug": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 70,
+      "def": 45,
+      "spa": 70,
+      "spd": 50,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "slug": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 110,
+      "def": 80,
+      "spa": 100,
+      "spd": 80,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "slug": "poliwag",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 50,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 90
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "slug": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 65,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "slug": "poliwrath",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 95,
+      "def": 95,
+      "spa": 70,
+      "spd": 90,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "slug": "abra",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 25,
+      "atk": 20,
+      "def": 15,
+      "spa": 105,
+      "spd": 55,
+      "spe": 90
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "slug": "kadabra",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 35,
+      "def": 30,
+      "spa": 120,
+      "spd": 70,
+      "spe": 105
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "slug": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 50,
+      "def": 45,
+      "spa": 135,
+      "spd": 95,
+      "spe": 120
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "slug": "machop",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 50,
+      "spa": 35,
+      "spd": 35,
+      "spe": 35
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "slug": "machoke",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 70,
+      "spa": 50,
+      "spd": 60,
+      "spe": 45
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "slug": "machamp",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 130,
+      "def": 80,
+      "spa": 65,
+      "spd": 85,
+      "spe": 55
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "slug": "bellsprout",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 35,
+      "spa": 70,
+      "spd": 30,
+      "spe": 40
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "slug": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 50,
+      "spa": 85,
+      "spd": 45,
+      "spe": 55
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "slug": "victreebel",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 65,
+      "spa": 100,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "slug": "tentacool",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 35,
+      "spa": 50,
+      "spd": 100,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "slug": "tentacruel",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 65,
+      "spa": 80,
+      "spd": 120,
+      "spe": 100
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "slug": "geodude",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 80,
+      "def": 100,
+      "spa": 30,
+      "spd": 30,
+      "spe": 20
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "slug": "graveler",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 95,
+      "def": 115,
+      "spa": 45,
+      "spd": 45,
+      "spe": 35
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "slug": "golem",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 130,
+      "spa": 55,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "slug": "ponyta",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 55,
+      "spa": 65,
+      "spd": 65,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "slug": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 100,
+      "def": 70,
+      "spa": 80,
+      "spd": 80,
+      "spe": 105
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "slug": "slowpoke",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 65,
+      "def": 65,
+      "spa": 40,
+      "spd": 40,
+      "spe": 15
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "slug": "slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 110,
+      "spa": 100,
+      "spd": 80,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "slug": "magnemite",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 25,
+      "atk": 35,
+      "def": 70,
+      "spa": 95,
+      "spd": 55,
+      "spe": 45
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "slug": "magneton",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 60,
+      "def": 95,
+      "spa": 120,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Farfetch’d",
+    "slug": "farfetchd",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "atk": 90,
+      "def": 55,
+      "spa": 58,
+      "spd": 62,
+      "spe": 60
+    },
+    "eggGroups": [
+      "flying",
+      "ground"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "slug": "doduo",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 85,
+      "def": 45,
+      "spa": 35,
+      "spd": 35,
+      "spe": 75
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "slug": "dodrio",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 110,
+      "def": 70,
+      "spa": 60,
+      "spd": 60,
+      "spe": 110
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "slug": "seel",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 45,
+      "def": 55,
+      "spa": 45,
+      "spd": 70,
+      "spe": 45
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "slug": "dewgong",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 70,
+      "def": 80,
+      "spa": 70,
+      "spd": 95,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "slug": "grimer",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 25
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "slug": "muk",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 105,
+      "def": 75,
+      "spa": 65,
+      "spd": 100,
+      "spe": 50
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "slug": "shellder",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 65,
+      "def": 100,
+      "spa": 45,
+      "spd": 25,
+      "spe": 40
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "slug": "cloyster",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 95,
+      "def": 180,
+      "spa": 85,
+      "spd": 45,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "slug": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 35,
+      "def": 30,
+      "spa": 100,
+      "spd": 35,
+      "spe": 80
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "slug": "haunter",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 50,
+      "def": 45,
+      "spa": 115,
+      "spd": 55,
+      "spe": 95
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "slug": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 60,
+      "spa": 130,
+      "spd": 75,
+      "spe": 110
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "slug": "onix",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 45,
+      "def": 160,
+      "spa": 30,
+      "spd": 45,
+      "spe": 70
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "slug": "drowzee",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 48,
+      "def": 45,
+      "spa": 43,
+      "spd": 90,
+      "spe": 42
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "slug": "hypno",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 73,
+      "def": 70,
+      "spa": 73,
+      "spd": 115,
+      "spe": 67
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "slug": "krabby",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 105,
+      "def": 90,
+      "spa": 25,
+      "spd": 25,
+      "spe": 50
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "slug": "kingler",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 130,
+      "def": 115,
+      "spa": 50,
+      "spd": 50,
+      "spe": 75
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "slug": "voltorb",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 50,
+      "spa": 55,
+      "spd": 55,
+      "spe": 100
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "slug": "electrode",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 70,
+      "spa": 80,
+      "spd": 80,
+      "spe": 150
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "slug": "exeggcute",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 80,
+      "spa": 60,
+      "spd": 45,
+      "spe": 40
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "slug": "exeggutor",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 95,
+      "def": 85,
+      "spa": 125,
+      "spd": 75,
+      "spe": 55
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "slug": "cubone",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 95,
+      "spa": 40,
+      "spd": 50,
+      "spe": 35
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "slug": "marowak",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 110,
+      "spa": 50,
+      "spd": 80,
+      "spe": 45
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "slug": "hitmonlee",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 120,
+      "def": 53,
+      "spa": 35,
+      "spd": 110,
+      "spe": 87
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "slug": "hitmonchan",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 105,
+      "def": 79,
+      "spa": 35,
+      "spd": 110,
+      "spe": 76
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "slug": "lickitung",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 55,
+      "def": 75,
+      "spa": 60,
+      "spd": 75,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "slug": "koffing",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 65,
+      "def": 95,
+      "spa": 60,
+      "spd": 45,
+      "spe": 35
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "slug": "weezing",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 120,
+      "spa": 85,
+      "spd": 70,
+      "spe": 60
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "slug": "rhyhorn",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 85,
+      "def": 95,
+      "spa": 30,
+      "spd": 30,
+      "spe": 25
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "slug": "rhydon",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 130,
+      "def": 120,
+      "spa": 45,
+      "spd": 45,
+      "spe": 40
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "slug": "chansey",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 250,
+      "atk": 5,
+      "def": 5,
+      "spa": 35,
+      "spd": 105,
+      "spe": 50
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "slug": "tangela",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 55,
+      "def": 115,
+      "spa": 100,
+      "spd": 40,
+      "spe": 60
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "slug": "kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 95,
+      "def": 80,
+      "spa": 40,
+      "spd": 80,
+      "spe": 90
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "slug": "horsea",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 40,
+      "def": 70,
+      "spa": 70,
+      "spd": 25,
+      "spe": 60
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "slug": "seadra",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 65,
+      "def": 95,
+      "spa": 95,
+      "spd": 45,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "slug": "goldeen",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 67,
+      "def": 60,
+      "spa": 35,
+      "spd": 50,
+      "spe": 63
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "slug": "seaking",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 92,
+      "def": 65,
+      "spa": 65,
+      "spd": 80,
+      "spe": 68
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "slug": "staryu",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 45,
+      "def": 55,
+      "spa": 70,
+      "spd": 55,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "slug": "starmie",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 75,
+      "def": 85,
+      "spa": 100,
+      "spd": 85,
+      "spe": 115
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "slug": "mr-mime",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 65,
+      "spa": 100,
+      "spd": 120,
+      "spe": 90
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "slug": "scyther",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 80,
+      "spa": 55,
+      "spd": 80,
+      "spe": 105
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "slug": "jynx",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 50,
+      "def": 35,
+      "spa": 115,
+      "spd": 95,
+      "spe": 95
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "slug": "electabuzz",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 83,
+      "def": 57,
+      "spa": 95,
+      "spd": 85,
+      "spe": 105
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "slug": "magmar",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 95,
+      "def": 57,
+      "spa": 100,
+      "spd": 85,
+      "spe": 93
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "slug": "pinsir",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 125,
+      "def": 100,
+      "spa": 55,
+      "spd": 70,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "slug": "tauros",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 95,
+      "spa": 40,
+      "spd": 70,
+      "spe": 110
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "slug": "magikarp",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 10,
+      "def": 55,
+      "spa": 15,
+      "spd": 20,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water2",
+      "dragon"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "slug": "gyarados",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 125,
+      "def": 79,
+      "spa": 60,
+      "spd": 100,
+      "spe": 81
+    },
+    "eggGroups": [
+      "water2",
+      "dragon"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "slug": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "atk": 85,
+      "def": 80,
+      "spa": 85,
+      "spd": 95,
+      "spe": 60
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "slug": "ditto",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 48,
+      "def": 48,
+      "spa": 48,
+      "spd": 48,
+      "spe": 48
+    },
+    "eggGroups": [
+      "ditto"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "slug": "eevee",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 55,
+      "def": 50,
+      "spa": 45,
+      "spd": 65,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "slug": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "atk": 65,
+      "def": 60,
+      "spa": 110,
+      "spd": 95,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "slug": "jolteon",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 60,
+      "spa": 110,
+      "spd": 95,
+      "spe": 130
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "slug": "flareon",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 130,
+      "def": 60,
+      "spa": 95,
+      "spd": 110,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "slug": "porygon",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 70,
+      "spa": 85,
+      "spd": 75,
+      "spe": 40
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "slug": "omanyte",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 40,
+      "def": 100,
+      "spa": 90,
+      "spd": 55,
+      "spe": 35
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "slug": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 60,
+      "def": 125,
+      "spa": 115,
+      "spd": 70,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "slug": "kabuto",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 80,
+      "def": 90,
+      "spa": 55,
+      "spd": 45,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "slug": "kabutops",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 115,
+      "def": 105,
+      "spa": 65,
+      "spd": 70,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "slug": "aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 65,
+      "spa": 60,
+      "spd": 75,
+      "spe": 130
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "slug": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 160,
+      "atk": 110,
+      "def": 65,
+      "spa": 65,
+      "spd": 110,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "slug": "articuno",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 85,
+      "def": 100,
+      "spa": 95,
+      "spd": 125,
+      "spe": 85
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "slug": "zapdos",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 90,
+      "def": 85,
+      "spa": 125,
+      "spd": 90,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "slug": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 90,
+      "spa": 125,
+      "spd": 85,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "slug": "dratini",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 41,
+      "atk": 64,
+      "def": 45,
+      "spa": 50,
+      "spd": 50,
+      "spe": 50
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "slug": "dragonair",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "atk": 84,
+      "def": 65,
+      "spa": 70,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "slug": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 134,
+      "def": 95,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "slug": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "atk": 110,
+      "def": 90,
+      "spa": 154,
+      "spd": 90,
+      "spe": 130
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "slug": "mew",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Chikorita",
+    "slug": "chikorita",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 49,
+      "def": 65,
+      "spa": 49,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Bayleef",
+    "slug": "bayleef",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 62,
+      "def": 80,
+      "spa": 63,
+      "spd": 80,
+      "spe": 60
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Meganium",
+    "slug": "meganium",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 100,
+      "spa": 83,
+      "spd": 100,
+      "spe": 80
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil",
+    "slug": "cyndaquil",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 39,
+      "atk": 52,
+      "def": 43,
+      "spa": 60,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Quilava",
+    "slug": "quilava",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 64,
+      "def": 58,
+      "spa": 80,
+      "spd": 65,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion",
+    "slug": "typhlosion",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Totodile",
+    "slug": "totodile",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 64,
+      "spa": 44,
+      "spd": 48,
+      "spe": 43
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Croconaw",
+    "slug": "croconaw",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 80,
+      "def": 80,
+      "spa": 59,
+      "spd": 63,
+      "spe": 58
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Feraligatr",
+    "slug": "feraligatr",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 105,
+      "def": 100,
+      "spa": 79,
+      "spd": 83,
+      "spe": 78
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Sentret",
+    "slug": "sentret",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 46,
+      "def": 34,
+      "spa": 35,
+      "spd": 45,
+      "spe": 20
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Furret",
+    "slug": "furret",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 76,
+      "def": 64,
+      "spa": 45,
+      "spd": 55,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot",
+    "slug": "hoothoot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 30,
+      "def": 30,
+      "spa": 36,
+      "spd": 56,
+      "spe": 50
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Noctowl",
+    "slug": "noctowl",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 50,
+      "def": 50,
+      "spa": 86,
+      "spd": 96,
+      "spe": 70
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Ledyba",
+    "slug": "ledyba",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 20,
+      "def": 30,
+      "spa": 40,
+      "spd": 80,
+      "spe": 55
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Ledian",
+    "slug": "ledian",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 35,
+      "def": 50,
+      "spa": 55,
+      "spd": 110,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Spinarak",
+    "slug": "spinarak",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 60,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 30
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Ariados",
+    "slug": "ariados",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 70,
+      "spa": 60,
+      "spd": 70,
+      "spe": 40
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Crobat",
+    "slug": "crobat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 90,
+      "def": 80,
+      "spa": 70,
+      "spd": 80,
+      "spe": 130
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Chinchou",
+    "slug": "chinchou",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 38,
+      "def": 38,
+      "spa": 56,
+      "spd": 56,
+      "spe": 67
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Lanturn",
+    "slug": "lanturn",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 125,
+      "atk": 58,
+      "def": 58,
+      "spa": 76,
+      "spd": 76,
+      "spe": 67
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Pichu",
+    "slug": "pichu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 40,
+      "def": 15,
+      "spa": 35,
+      "spd": 35,
+      "spe": 60
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Cleffa",
+    "slug": "cleffa",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 25,
+      "def": 28,
+      "spa": 45,
+      "spd": 55,
+      "spe": 15
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Igglybuff",
+    "slug": "igglybuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 30,
+      "def": 15,
+      "spa": 40,
+      "spd": 20,
+      "spe": 15
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Togepi",
+    "slug": "togepi",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 20,
+      "def": 65,
+      "spa": 40,
+      "spd": 65,
+      "spe": 20
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Togetic",
+    "slug": "togetic",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 40,
+      "def": 85,
+      "spa": 80,
+      "spd": 105,
+      "spe": 40
+    },
+    "eggGroups": [
+      "flying",
+      "fairy"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Natu",
+    "slug": "natu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 50,
+      "def": 45,
+      "spa": 70,
+      "spd": 45,
+      "spe": 70
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Xatu",
+    "slug": "xatu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 75,
+      "def": 70,
+      "spa": 95,
+      "spd": 70,
+      "spe": 95
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Mareep",
+    "slug": "mareep",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 40,
+      "def": 40,
+      "spa": 65,
+      "spd": 45,
+      "spe": 35
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Flaaffy",
+    "slug": "flaaffy",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 55,
+      "def": 55,
+      "spa": 80,
+      "spd": 60,
+      "spe": 45
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Ampharos",
+    "slug": "ampharos",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 85,
+      "spa": 115,
+      "spd": 90,
+      "spe": 55
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Bellossom",
+    "slug": "bellossom",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 95,
+      "spa": 90,
+      "spd": 100,
+      "spe": 50
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Marill",
+    "slug": "marill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 20,
+      "def": 50,
+      "spa": 20,
+      "spd": 50,
+      "spe": 40
+    },
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Azumarill",
+    "slug": "azumarill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 50,
+      "def": 80,
+      "spa": 60,
+      "spd": 80,
+      "spe": 50
+    },
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Sudowoodo",
+    "slug": "sudowoodo",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 100,
+      "def": 115,
+      "spa": 30,
+      "spd": 65,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Politoed",
+    "slug": "politoed",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 75,
+      "spa": 90,
+      "spd": 100,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Hoppip",
+    "slug": "hoppip",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 35,
+      "def": 40,
+      "spa": 35,
+      "spd": 55,
+      "spe": 50
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Skiploom",
+    "slug": "skiploom",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 45,
+      "def": 50,
+      "spa": 45,
+      "spd": 65,
+      "spe": 80
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Jumpluff",
+    "slug": "jumpluff",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 55,
+      "def": 70,
+      "spa": 55,
+      "spd": 95,
+      "spe": 110
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Aipom",
+    "slug": "aipom",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 70,
+      "def": 55,
+      "spa": 40,
+      "spd": 55,
+      "spe": 85
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Sunkern",
+    "slug": "sunkern",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 30,
+      "def": 30,
+      "spa": 30,
+      "spd": 30,
+      "spe": 30
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Sunflora",
+    "slug": "sunflora",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 55,
+      "spa": 105,
+      "spd": 85,
+      "spe": 30
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Yanma",
+    "slug": "yanma",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 45,
+      "spa": 75,
+      "spd": 45,
+      "spe": 95
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Wooper",
+    "slug": "wooper",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 45,
+      "def": 45,
+      "spa": 25,
+      "spd": 25,
+      "spe": 15
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Quagsire",
+    "slug": "quagsire",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 85,
+      "def": 85,
+      "spa": 65,
+      "spd": 65,
+      "spe": 35
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Espeon",
+    "slug": "espeon",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 60,
+      "spa": 130,
+      "spd": 95,
+      "spe": 110
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Umbreon",
+    "slug": "umbreon",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 65,
+      "def": 110,
+      "spa": 60,
+      "spd": 130,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Murkrow",
+    "slug": "murkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 42,
+      "spa": 85,
+      "spd": 42,
+      "spe": 91
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Slowking",
+    "slug": "slowking",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 80,
+      "spa": 100,
+      "spd": 110,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Misdreavus",
+    "slug": "misdreavus",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spa": 85,
+      "spd": 85,
+      "spe": 85
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Unown",
+    "slug": "unown",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 72,
+      "def": 48,
+      "spa": 72,
+      "spd": 48,
+      "spe": 48
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Wobbuffet",
+    "slug": "wobbuffet",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 190,
+      "atk": 33,
+      "def": 58,
+      "spa": 33,
+      "spd": 58,
+      "spe": 33
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Girafarig",
+    "slug": "girafarig",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 65,
+      "spa": 90,
+      "spd": 65,
+      "spe": 85
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Pineco",
+    "slug": "pineco",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 90,
+      "spa": 35,
+      "spd": 35,
+      "spe": 15
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Forretress",
+    "slug": "forretress",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 90,
+      "def": 140,
+      "spa": 60,
+      "spd": 60,
+      "spe": 40
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Dunsparce",
+    "slug": "dunsparce",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 70,
+      "def": 70,
+      "spa": 65,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Gligar",
+    "slug": "gligar",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 75,
+      "def": 105,
+      "spa": 35,
+      "spd": 65,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Steelix",
+    "slug": "steelix",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 85,
+      "def": 200,
+      "spa": 55,
+      "spd": 65,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Snubbull",
+    "slug": "snubbull",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 50,
+      "spa": 40,
+      "spd": 40,
+      "spe": 30
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Granbull",
+    "slug": "granbull",
+    "types": [
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 120,
+      "def": 75,
+      "spa": 60,
+      "spd": 60,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Qwilfish",
+    "slug": "qwilfish",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 95,
+      "def": 85,
+      "spa": 55,
+      "spd": 55,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Scizor",
+    "slug": "scizor",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 130,
+      "def": 100,
+      "spa": 55,
+      "spd": 80,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Shuckle",
+    "slug": "shuckle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 10,
+      "def": 230,
+      "spa": 10,
+      "spd": 230,
+      "spe": 5
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Heracross",
+    "slug": "heracross",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 125,
+      "def": 75,
+      "spa": 40,
+      "spd": 95,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Sneasel",
+    "slug": "sneasel",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 95,
+      "def": 55,
+      "spa": 35,
+      "spd": 75,
+      "spe": 115
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Teddiursa",
+    "slug": "teddiursa",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 50,
+      "spa": 50,
+      "spd": 50,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Ursaring",
+    "slug": "ursaring",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 130,
+      "def": 75,
+      "spa": 75,
+      "spd": 75,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Slugma",
+    "slug": "slugma",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 40,
+      "spa": 70,
+      "spd": 40,
+      "spe": 20
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Magcargo",
+    "slug": "magcargo",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 120,
+      "spa": 90,
+      "spd": 80,
+      "spe": 30
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Swinub",
+    "slug": "swinub",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 40,
+      "spa": 30,
+      "spd": 30,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Piloswine",
+    "slug": "piloswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 80,
+      "spa": 60,
+      "spd": 60,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Corsola",
+    "slug": "corsola",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 55,
+      "def": 95,
+      "spa": 65,
+      "spd": 95,
+      "spe": 35
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Remoraid",
+    "slug": "remoraid",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 65,
+      "def": 35,
+      "spa": 65,
+      "spd": 35,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water1",
+      "water2"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Octillery",
+    "slug": "octillery",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 105,
+      "def": 75,
+      "spa": 105,
+      "spd": 75,
+      "spe": 45
+    },
+    "eggGroups": [
+      "water1",
+      "water2"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Delibird",
+    "slug": "delibird",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 55,
+      "def": 45,
+      "spa": 65,
+      "spd": 45,
+      "spe": 75
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Mantine",
+    "slug": "mantine",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 40,
+      "def": 70,
+      "spa": 80,
+      "spd": 140,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Skarmory",
+    "slug": "skarmory",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 80,
+      "def": 140,
+      "spa": 40,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Houndour",
+    "slug": "houndour",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 30,
+      "spa": 80,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Houndoom",
+    "slug": "houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 90,
+      "def": 50,
+      "spa": 110,
+      "spd": 80,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Kingdra",
+    "slug": "kingdra",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 95,
+      "def": 95,
+      "spa": 95,
+      "spd": 95,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Phanpy",
+    "slug": "phanpy",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 60,
+      "spa": 40,
+      "spd": 40,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Donphan",
+    "slug": "donphan",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 120,
+      "def": 120,
+      "spa": 60,
+      "spd": 60,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Porygon2",
+    "slug": "porygon2",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 80,
+      "def": 90,
+      "spa": 105,
+      "spd": 95,
+      "spe": 60
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Stantler",
+    "slug": "stantler",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 95,
+      "def": 62,
+      "spa": 85,
+      "spd": 65,
+      "spe": 85
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Smeargle",
+    "slug": "smeargle",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 20,
+      "def": 35,
+      "spa": 20,
+      "spd": 45,
+      "spe": 75
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Tyrogue",
+    "slug": "tyrogue",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 35,
+      "def": 35,
+      "spa": 35,
+      "spd": 35,
+      "spe": 35
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Hitmontop",
+    "slug": "hitmontop",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 95,
+      "def": 95,
+      "spa": 35,
+      "spd": 110,
+      "spe": 70
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Smoochum",
+    "slug": "smoochum",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 15,
+      "spa": 85,
+      "spd": 65,
+      "spe": 65
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Elekid",
+    "slug": "elekid",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 63,
+      "def": 37,
+      "spa": 65,
+      "spd": 55,
+      "spe": 95
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Magby",
+    "slug": "magby",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 75,
+      "def": 37,
+      "spa": 70,
+      "spd": 55,
+      "spe": 83
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Miltank",
+    "slug": "miltank",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 80,
+      "def": 105,
+      "spa": 40,
+      "spd": 70,
+      "spe": 100
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Blissey",
+    "slug": "blissey",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 255,
+      "atk": 10,
+      "def": 10,
+      "spa": 75,
+      "spd": 135,
+      "spe": 55
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Raikou",
+    "slug": "raikou",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 85,
+      "def": 75,
+      "spa": 115,
+      "spd": 100,
+      "spe": 115
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Entei",
+    "slug": "entei",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 115,
+      "atk": 115,
+      "def": 85,
+      "spa": 90,
+      "spd": 75,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Suicune",
+    "slug": "suicune",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 75,
+      "def": 115,
+      "spa": 90,
+      "spd": 115,
+      "spe": 85
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Larvitar",
+    "slug": "larvitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 64,
+      "def": 50,
+      "spa": 45,
+      "spd": 50,
+      "spe": 41
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Pupitar",
+    "slug": "pupitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 84,
+      "def": 70,
+      "spa": 65,
+      "spd": 70,
+      "spe": 51
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Tyranitar",
+    "slug": "tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 134,
+      "def": 110,
+      "spa": 95,
+      "spd": 100,
+      "spe": 61
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Lugia",
+    "slug": "lugia",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "atk": 90,
+      "def": 130,
+      "spa": 90,
+      "spd": 154,
+      "spe": 110
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Ho-Oh",
+    "slug": "ho-oh",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "atk": 130,
+      "def": 90,
+      "spa": 110,
+      "spd": 154,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Celebi",
+    "slug": "celebi",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Treecko",
+    "slug": "treecko",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spa": 65,
+      "spd": 55,
+      "spe": 70
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Grovyle",
+    "slug": "grovyle",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 45,
+      "spa": 85,
+      "spd": 65,
+      "spe": 95
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Sceptile",
+    "slug": "sceptile",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 65,
+      "spa": 105,
+      "spd": 85,
+      "spe": 120
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Torchic",
+    "slug": "torchic",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 40,
+      "spa": 70,
+      "spd": 50,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Combusken",
+    "slug": "combusken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 60,
+      "spa": 85,
+      "spd": 60,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Blaziken",
+    "slug": "blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 70,
+      "spa": 110,
+      "spd": 70,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Mudkip",
+    "slug": "mudkip",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 50,
+      "spa": 50,
+      "spd": 50,
+      "spe": 40
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Marshtomp",
+    "slug": "marshtomp",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 70,
+      "spa": 60,
+      "spd": 70,
+      "spe": 50
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Swampert",
+    "slug": "swampert",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 110,
+      "def": 90,
+      "spa": 85,
+      "spd": 90,
+      "spe": 60
+    },
+    "eggGroups": [
+      "monster",
+      "water1"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Poochyena",
+    "slug": "poochyena",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 35,
+      "spa": 30,
+      "spd": 30,
+      "spe": 35
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Mightyena",
+    "slug": "mightyena",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 70,
+      "spa": 60,
+      "spd": 60,
+      "spe": 70
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Zigzagoon",
+    "slug": "zigzagoon",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 30,
+      "def": 41,
+      "spa": 30,
+      "spd": 41,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Linoone",
+    "slug": "linoone",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 70,
+      "def": 61,
+      "spa": 50,
+      "spd": 61,
+      "spe": 100
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Wurmple",
+    "slug": "wurmple",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 45,
+      "def": 35,
+      "spa": 20,
+      "spd": 30,
+      "spe": 20
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Silcoon",
+    "slug": "silcoon",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 35,
+      "def": 55,
+      "spa": 25,
+      "spd": 25,
+      "spe": 15
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Beautifly",
+    "slug": "beautifly",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 50,
+      "spa": 100,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Cascoon",
+    "slug": "cascoon",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 35,
+      "def": 55,
+      "spa": 25,
+      "spd": 25,
+      "spe": 15
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Dustox",
+    "slug": "dustox",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 70,
+      "spa": 50,
+      "spd": 90,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Lotad",
+    "slug": "lotad",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 30,
+      "spa": 40,
+      "spd": 50,
+      "spe": 30
+    },
+    "eggGroups": [
+      "water1",
+      "plant"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Lombre",
+    "slug": "lombre",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 50,
+      "spa": 60,
+      "spd": 70,
+      "spe": 50
+    },
+    "eggGroups": [
+      "water1",
+      "plant"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo",
+    "slug": "ludicolo",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 70,
+      "spa": 90,
+      "spd": 100,
+      "spe": 70
+    },
+    "eggGroups": [
+      "water1",
+      "plant"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Seedot",
+    "slug": "seedot",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 50,
+      "spa": 30,
+      "spd": 30,
+      "spe": 30
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Nuzleaf",
+    "slug": "nuzleaf",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 40,
+      "spa": 60,
+      "spd": 40,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Shiftry",
+    "slug": "shiftry",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 60,
+      "spa": 90,
+      "spd": 60,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Taillow",
+    "slug": "taillow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 30,
+      "spa": 30,
+      "spd": 30,
+      "spe": 85
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Swellow",
+    "slug": "swellow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 60,
+      "spa": 75,
+      "spd": 50,
+      "spe": 125
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Wingull",
+    "slug": "wingull",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 30,
+      "spa": 55,
+      "spd": 30,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water1",
+      "flying"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Pelipper",
+    "slug": "pelipper",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 100,
+      "spa": 95,
+      "spd": 70,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water1",
+      "flying"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Ralts",
+    "slug": "ralts",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 28,
+      "atk": 25,
+      "def": 25,
+      "spa": 45,
+      "spd": 35,
+      "spe": 40
+    },
+    "eggGroups": [
+      "humanshape",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "slug": "kirlia",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 35,
+      "def": 35,
+      "spa": 65,
+      "spd": 55,
+      "spe": 50
+    },
+    "eggGroups": [
+      "humanshape",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir",
+    "slug": "gardevoir",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 65,
+      "def": 65,
+      "spa": 125,
+      "spd": 115,
+      "spe": 80
+    },
+    "eggGroups": [
+      "humanshape",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Surskit",
+    "slug": "surskit",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 32,
+      "spa": 50,
+      "spd": 52,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water1",
+      "bug"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Masquerain",
+    "slug": "masquerain",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 60,
+      "def": 62,
+      "spa": 100,
+      "spd": 82,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water1",
+      "bug"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Shroomish",
+    "slug": "shroomish",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 60,
+      "spa": 40,
+      "spd": 60,
+      "spe": 35
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Breloom",
+    "slug": "breloom",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 130,
+      "def": 80,
+      "spa": 60,
+      "spd": 60,
+      "spe": 70
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Slakoth",
+    "slug": "slakoth",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spa": 35,
+      "spd": 35,
+      "spe": 30
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Vigoroth",
+    "slug": "vigoroth",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spa": 55,
+      "spd": 55,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Slaking",
+    "slug": "slaking",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 150,
+      "atk": 160,
+      "def": 100,
+      "spa": 95,
+      "spd": 65,
+      "spe": 100
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Nincada",
+    "slug": "nincada",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 31,
+      "atk": 45,
+      "def": 90,
+      "spa": 30,
+      "spd": 30,
+      "spe": 40
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Ninjask",
+    "slug": "ninjask",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 61,
+      "atk": 90,
+      "def": 45,
+      "spa": 50,
+      "spd": 50,
+      "spe": 160
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Shedinja",
+    "slug": "shedinja",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 1,
+      "atk": 90,
+      "def": 45,
+      "spa": 30,
+      "spd": 30,
+      "spe": 40
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Whismur",
+    "slug": "whismur",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 51,
+      "def": 23,
+      "spa": 51,
+      "spd": 23,
+      "spe": 28
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Loudred",
+    "slug": "loudred",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 84,
+      "atk": 71,
+      "def": 43,
+      "spa": 71,
+      "spd": 43,
+      "spe": 48
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Exploud",
+    "slug": "exploud",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 104,
+      "atk": 91,
+      "def": 63,
+      "spa": 91,
+      "spd": 73,
+      "spe": 68
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Makuhita",
+    "slug": "makuhita",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 60,
+      "def": 30,
+      "spa": 20,
+      "spd": 30,
+      "spe": 25
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Hariyama",
+    "slug": "hariyama",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 144,
+      "atk": 120,
+      "def": 60,
+      "spa": 40,
+      "spd": 60,
+      "spe": 50
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Azurill",
+    "slug": "azurill",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 20,
+      "def": 40,
+      "spa": 20,
+      "spd": 40,
+      "spe": 20
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Nosepass",
+    "slug": "nosepass",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 45,
+      "def": 135,
+      "spa": 45,
+      "spd": 90,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Skitty",
+    "slug": "skitty",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 45,
+      "def": 45,
+      "spa": 35,
+      "spd": 35,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Delcatty",
+    "slug": "delcatty",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 65,
+      "spa": 55,
+      "spd": 55,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Sableye",
+    "slug": "sableye",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 75,
+      "spa": 65,
+      "spd": 65,
+      "spe": 50
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Mawile",
+    "slug": "mawile",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 85,
+      "spa": 55,
+      "spd": 55,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Aron",
+    "slug": "aron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 100,
+      "spa": 40,
+      "spd": 40,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Lairon",
+    "slug": "lairon",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 140,
+      "spa": 50,
+      "spd": 50,
+      "spe": 40
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Aggron",
+    "slug": "aggron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 180,
+      "spa": 60,
+      "spd": 60,
+      "spe": 50
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Meditite",
+    "slug": "meditite",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 40,
+      "def": 55,
+      "spa": 40,
+      "spd": 55,
+      "spe": 60
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Medicham",
+    "slug": "medicham",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 75,
+      "spa": 60,
+      "spd": 75,
+      "spe": 80
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Electrike",
+    "slug": "electrike",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 65,
+      "spd": 40,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Manectric",
+    "slug": "manectric",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 75,
+      "def": 60,
+      "spa": 105,
+      "spd": 60,
+      "spe": 105
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "slug": "plusle",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 40,
+      "spa": 85,
+      "spd": 75,
+      "spe": 95
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Minun",
+    "slug": "minun",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 50,
+      "spa": 75,
+      "spd": 85,
+      "spe": 95
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Volbeat",
+    "slug": "volbeat",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 73,
+      "def": 75,
+      "spa": 47,
+      "spd": 85,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Illumise",
+    "slug": "illumise",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 47,
+      "def": 75,
+      "spa": 73,
+      "spd": 85,
+      "spe": 85
+    },
+    "eggGroups": [
+      "bug",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Roselia",
+    "slug": "roselia",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 60,
+      "def": 45,
+      "spa": 100,
+      "spd": 80,
+      "spe": 65
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Gulpin",
+    "slug": "gulpin",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 43,
+      "def": 53,
+      "spa": 43,
+      "spd": 53,
+      "spe": 40
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Swalot",
+    "slug": "swalot",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 73,
+      "def": 83,
+      "spa": 73,
+      "spd": 83,
+      "spe": 55
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Carvanha",
+    "slug": "carvanha",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 90,
+      "def": 20,
+      "spa": 65,
+      "spd": 20,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Sharpedo",
+    "slug": "sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 120,
+      "def": 40,
+      "spa": 95,
+      "spd": 40,
+      "spe": 95
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Wailmer",
+    "slug": "wailmer",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "atk": 70,
+      "def": 35,
+      "spa": 70,
+      "spd": 35,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground",
+      "water2"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Wailord",
+    "slug": "wailord",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 170,
+      "atk": 90,
+      "def": 45,
+      "spa": 90,
+      "spd": 45,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground",
+      "water2"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Numel",
+    "slug": "numel",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 40,
+      "spa": 65,
+      "spd": 45,
+      "spe": 35
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Camerupt",
+    "slug": "camerupt",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 100,
+      "def": 70,
+      "spa": 105,
+      "spd": 75,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Torkoal",
+    "slug": "torkoal",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 140,
+      "spa": 85,
+      "spd": 70,
+      "spe": 20
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Spoink",
+    "slug": "spoink",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 25,
+      "def": 35,
+      "spa": 70,
+      "spd": 80,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Grumpig",
+    "slug": "grumpig",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 45,
+      "def": 65,
+      "spa": 90,
+      "spd": 110,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Spinda",
+    "slug": "spinda",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spa": 60,
+      "spd": 60,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Trapinch",
+    "slug": "trapinch",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 100,
+      "def": 45,
+      "spa": 45,
+      "spd": 45,
+      "spe": 10
+    },
+    "eggGroups": [
+      "bug",
+      "dragon"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Vibrava",
+    "slug": "vibrava",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 70,
+      "def": 50,
+      "spa": 50,
+      "spd": 50,
+      "spe": 70
+    },
+    "eggGroups": [
+      "bug",
+      "dragon"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Flygon",
+    "slug": "flygon",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 80,
+      "spa": 80,
+      "spd": 80,
+      "spe": 100
+    },
+    "eggGroups": [
+      "bug",
+      "dragon"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Cacnea",
+    "slug": "cacnea",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 40,
+      "spa": 85,
+      "spd": 40,
+      "spe": 35
+    },
+    "eggGroups": [
+      "plant",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Cacturne",
+    "slug": "cacturne",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 115,
+      "def": 60,
+      "spa": 115,
+      "spd": 60,
+      "spe": 55
+    },
+    "eggGroups": [
+      "plant",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Swablu",
+    "slug": "swablu",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 40,
+      "def": 60,
+      "spa": 40,
+      "spd": 75,
+      "spe": 50
+    },
+    "eggGroups": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "slug": "altaria",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 70,
+      "def": 90,
+      "spa": 70,
+      "spd": 105,
+      "spe": 80
+    },
+    "eggGroups": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Zangoose",
+    "slug": "zangoose",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 115,
+      "def": 60,
+      "spa": 60,
+      "spd": 60,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Seviper",
+    "slug": "seviper",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 100,
+      "def": 60,
+      "spa": 100,
+      "spd": 60,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Lunatone",
+    "slug": "lunatone",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 55,
+      "def": 65,
+      "spa": 95,
+      "spd": 85,
+      "spe": 70
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Solrock",
+    "slug": "solrock",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 95,
+      "def": 85,
+      "spa": 55,
+      "spd": 65,
+      "spe": 70
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Barboach",
+    "slug": "barboach",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 48,
+      "def": 43,
+      "spa": 46,
+      "spd": 41,
+      "spe": 60
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Whiscash",
+    "slug": "whiscash",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 78,
+      "def": 73,
+      "spa": 76,
+      "spd": 71,
+      "spe": 60
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Corphish",
+    "slug": "corphish",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 43,
+      "atk": 80,
+      "def": 65,
+      "spa": 50,
+      "spd": 35,
+      "spe": 35
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Crawdaunt",
+    "slug": "crawdaunt",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "atk": 120,
+      "def": 85,
+      "spa": 90,
+      "spd": 55,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Baltoy",
+    "slug": "baltoy",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 55,
+      "spa": 40,
+      "spd": 70,
+      "spe": 55
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Claydol",
+    "slug": "claydol",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 105,
+      "spa": 70,
+      "spd": 120,
+      "spe": 75
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Lileep",
+    "slug": "lileep",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 66,
+      "atk": 41,
+      "def": 77,
+      "spa": 61,
+      "spd": 87,
+      "spe": 23
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Cradily",
+    "slug": "cradily",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 86,
+      "atk": 81,
+      "def": 97,
+      "spa": 81,
+      "spd": 107,
+      "spe": 43
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Anorith",
+    "slug": "anorith",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 95,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 75
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Armaldo",
+    "slug": "armaldo",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 100,
+      "spa": 70,
+      "spd": 80,
+      "spe": 45
+    },
+    "eggGroups": [
+      "water3"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Feebas",
+    "slug": "feebas",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 15,
+      "def": 20,
+      "spa": 10,
+      "spd": 55,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "slug": "milotic",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 60,
+      "def": 79,
+      "spa": 100,
+      "spd": 125,
+      "spe": 81
+    },
+    "eggGroups": [
+      "water1",
+      "dragon"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Castform",
+    "slug": "castform",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 70,
+      "spa": 70,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "fairy",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Kecleon",
+    "slug": "kecleon",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 70,
+      "spa": 60,
+      "spd": 120,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Shuppet",
+    "slug": "shuppet",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 75,
+      "def": 35,
+      "spa": 63,
+      "spd": 33,
+      "spe": 45
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Banette",
+    "slug": "banette",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 115,
+      "def": 65,
+      "spa": 83,
+      "spd": 63,
+      "spe": 65
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Duskull",
+    "slug": "duskull",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 40,
+      "def": 90,
+      "spa": 30,
+      "spd": 90,
+      "spe": 25
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Dusclops",
+    "slug": "dusclops",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 70,
+      "def": 130,
+      "spa": 60,
+      "spd": 130,
+      "spe": 25
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Tropius",
+    "slug": "tropius",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 99,
+      "atk": 68,
+      "def": 83,
+      "spa": 72,
+      "spd": 87,
+      "spe": 51
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Chimecho",
+    "slug": "chimecho",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 50,
+      "def": 80,
+      "spa": 95,
+      "spd": 90,
+      "spe": 65
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "slug": "absol",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 130,
+      "def": 60,
+      "spa": 75,
+      "spd": 60,
+      "spe": 75
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Wynaut",
+    "slug": "wynaut",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 23,
+      "def": 48,
+      "spa": 23,
+      "spd": 48,
+      "spe": 23
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Snorunt",
+    "slug": "snorunt",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 50,
+      "spa": 50,
+      "spd": 50,
+      "spe": 50
+    },
+    "eggGroups": [
+      "fairy",
+      "mineral"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Glalie",
+    "slug": "glalie",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spa": 80,
+      "spd": 80,
+      "spe": 80
+    },
+    "eggGroups": [
+      "fairy",
+      "mineral"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Spheal",
+    "slug": "spheal",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 40,
+      "def": 50,
+      "spa": 55,
+      "spd": 50,
+      "spe": 25
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Sealeo",
+    "slug": "sealeo",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 70,
+      "spa": 75,
+      "spd": 70,
+      "spe": 45
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Walrein",
+    "slug": "walrein",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 80,
+      "def": 90,
+      "spa": 95,
+      "spd": 90,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Clamperl",
+    "slug": "clamperl",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 64,
+      "def": 85,
+      "spa": 74,
+      "spd": 55,
+      "spe": 32
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Huntail",
+    "slug": "huntail",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 104,
+      "def": 105,
+      "spa": 94,
+      "spd": 75,
+      "spe": 52
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Gorebyss",
+    "slug": "gorebyss",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 84,
+      "def": 105,
+      "spa": 114,
+      "spd": 75,
+      "spe": 52
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Relicanth",
+    "slug": "relicanth",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 90,
+      "def": 130,
+      "spa": 45,
+      "spd": 65,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "water2"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Luvdisc",
+    "slug": "luvdisc",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 43,
+      "atk": 30,
+      "def": 55,
+      "spa": 40,
+      "spd": 65,
+      "spe": 97
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Bagon",
+    "slug": "bagon",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 75,
+      "def": 60,
+      "spa": 40,
+      "spd": 30,
+      "spe": 50
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Shelgon",
+    "slug": "shelgon",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 95,
+      "def": 100,
+      "spa": 60,
+      "spd": 50,
+      "spe": 50
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Salamence",
+    "slug": "salamence",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 135,
+      "def": 80,
+      "spa": 110,
+      "spd": 80,
+      "spe": 100
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Beldum",
+    "slug": "beldum",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 80,
+      "spa": 35,
+      "spd": 60,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Metang",
+    "slug": "metang",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 75,
+      "def": 100,
+      "spa": 55,
+      "spd": 80,
+      "spe": 50
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "slug": "metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 135,
+      "def": 130,
+      "spa": 95,
+      "spd": 90,
+      "spe": 70
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Regirock",
+    "slug": "regirock",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 200,
+      "spa": 50,
+      "spd": 100,
+      "spe": 50
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Regice",
+    "slug": "regice",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 50,
+      "def": 100,
+      "spa": 100,
+      "spd": 200,
+      "spe": 50
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Registeel",
+    "slug": "registeel",
+    "types": [
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 75,
+      "def": 150,
+      "spa": 75,
+      "spd": 150,
+      "spe": 50
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "slug": "latias",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 90,
+      "spa": 110,
+      "spd": 130,
+      "spe": 110
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "slug": "latios",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 90,
+      "def": 80,
+      "spa": 130,
+      "spd": 110,
+      "spe": 110
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Kyogre",
+    "slug": "kyogre",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 90,
+      "spa": 150,
+      "spd": 140,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Groudon",
+    "slug": "groudon",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 150,
+      "def": 140,
+      "spa": 100,
+      "spd": 90,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "slug": "rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 150,
+      "def": 90,
+      "spa": 150,
+      "spd": 90,
+      "spe": 95
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "slug": "jirachi",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Deoxys",
+    "slug": "deoxys-normal",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 150,
+      "def": 50,
+      "spa": 150,
+      "spd": 50,
+      "spe": 150
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Turtwig",
+    "slug": "turtwig",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 68,
+      "def": 64,
+      "spa": 45,
+      "spd": 55,
+      "spe": 31
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Grotle",
+    "slug": "grotle",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 89,
+      "def": 85,
+      "spa": 55,
+      "spd": 65,
+      "spe": 36
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Torterra",
+    "slug": "torterra",
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 109,
+      "def": 105,
+      "spa": 75,
+      "spd": 85,
+      "spe": 56
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Chimchar",
+    "slug": "chimchar",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 58,
+      "def": 44,
+      "spa": 58,
+      "spd": 44,
+      "spe": 61
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Monferno",
+    "slug": "monferno",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 78,
+      "def": 52,
+      "spa": 78,
+      "spd": 52,
+      "spe": 81
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Infernape",
+    "slug": "infernape",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 104,
+      "def": 71,
+      "spa": 104,
+      "spd": 71,
+      "spe": 108
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Piplup",
+    "slug": "piplup",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 53,
+      "atk": 51,
+      "def": 53,
+      "spa": 61,
+      "spd": 56,
+      "spe": 40
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Prinplup",
+    "slug": "prinplup",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 66,
+      "def": 68,
+      "spa": 81,
+      "spd": 76,
+      "spe": 50
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Empoleon",
+    "slug": "empoleon",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 84,
+      "atk": 86,
+      "def": 88,
+      "spa": 111,
+      "spd": 101,
+      "spe": 60
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Starly",
+    "slug": "starly",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 30,
+      "spa": 30,
+      "spd": 30,
+      "spe": 60
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Staravia",
+    "slug": "staravia",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 75,
+      "def": 50,
+      "spa": 40,
+      "spd": 40,
+      "spe": 80
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Staraptor",
+    "slug": "staraptor",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 120,
+      "def": 70,
+      "spa": 50,
+      "spd": 60,
+      "spe": 100
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Bidoof",
+    "slug": "bidoof",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 59,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 40,
+      "spe": 31
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Bibarel",
+    "slug": "bibarel",
+    "types": [
+      "normal",
+      "water"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "atk": 85,
+      "def": 60,
+      "spa": 55,
+      "spd": 60,
+      "spe": 71
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Kricketot",
+    "slug": "kricketot",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 37,
+      "atk": 25,
+      "def": 41,
+      "spa": 25,
+      "spd": 41,
+      "spe": 25
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Kricketune",
+    "slug": "kricketune",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 77,
+      "atk": 85,
+      "def": 51,
+      "spa": 55,
+      "spd": 51,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Shinx",
+    "slug": "shinx",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 65,
+      "def": 34,
+      "spa": 40,
+      "spd": 34,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Luxio",
+    "slug": "luxio",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 49,
+      "spa": 60,
+      "spd": 49,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Luxray",
+    "slug": "luxray",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 79,
+      "spa": 95,
+      "spd": 79,
+      "spe": 70
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Budew",
+    "slug": "budew",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 35,
+      "spa": 50,
+      "spd": 70,
+      "spe": 55
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Roserade",
+    "slug": "roserade",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 65,
+      "spa": 125,
+      "spd": 105,
+      "spe": 90
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Cranidos",
+    "slug": "cranidos",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 67,
+      "atk": 125,
+      "def": 40,
+      "spa": 30,
+      "spd": 30,
+      "spe": 58
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Rampardos",
+    "slug": "rampardos",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 165,
+      "def": 60,
+      "spa": 65,
+      "spd": 50,
+      "spe": 58
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Shieldon",
+    "slug": "shieldon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 42,
+      "def": 118,
+      "spa": 42,
+      "spd": 88,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Bastiodon",
+    "slug": "bastiodon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 52,
+      "def": 168,
+      "spa": 47,
+      "spd": 138,
+      "spe": 30
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Burmy",
+    "slug": "burmy",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 29,
+      "def": 45,
+      "spa": 29,
+      "spd": 45,
+      "spe": 36
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Wormadam",
+    "slug": "wormadam-plant",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 59,
+      "def": 85,
+      "spa": 79,
+      "spd": 105,
+      "spe": 36
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Mothim",
+    "slug": "mothim",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 94,
+      "def": 50,
+      "spa": 94,
+      "spd": 50,
+      "spe": 66
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Combee",
+    "slug": "combee",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 30,
+      "def": 42,
+      "spa": 30,
+      "spd": 42,
+      "spe": 70
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Vespiquen",
+    "slug": "vespiquen",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 102,
+      "spa": 80,
+      "spd": 102,
+      "spe": 40
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu",
+    "slug": "pachirisu",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 70,
+      "spa": 45,
+      "spd": 90,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground",
+      "fairy"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Buizel",
+    "slug": "buizel",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 65,
+      "def": 35,
+      "spa": 60,
+      "spd": 30,
+      "spe": 85
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Floatzel",
+    "slug": "floatzel",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 105,
+      "def": 55,
+      "spa": 85,
+      "spd": 50,
+      "spe": 115
+    },
+    "eggGroups": [
+      "water1",
+      "ground"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Cherubi",
+    "slug": "cherubi",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 35,
+      "def": 45,
+      "spa": 62,
+      "spd": 53,
+      "spe": 35
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Cherrim",
+    "slug": "cherrim",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 60,
+      "def": 70,
+      "spa": 87,
+      "spd": 78,
+      "spe": 85
+    },
+    "eggGroups": [
+      "fairy",
+      "plant"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Shellos",
+    "slug": "shellos",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 48,
+      "def": 48,
+      "spa": 57,
+      "spd": 62,
+      "spe": 34
+    },
+    "eggGroups": [
+      "water1",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Gastrodon",
+    "slug": "gastrodon",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 111,
+      "atk": 83,
+      "def": 68,
+      "spa": 92,
+      "spd": 82,
+      "spe": 39
+    },
+    "eggGroups": [
+      "water1",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Ambipom",
+    "slug": "ambipom",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 66,
+      "spa": 60,
+      "spd": 66,
+      "spe": 115
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Drifloon",
+    "slug": "drifloon",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 50,
+      "def": 34,
+      "spa": 60,
+      "spd": 44,
+      "spe": 70
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Drifblim",
+    "slug": "drifblim",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 150,
+      "atk": 80,
+      "def": 44,
+      "spa": 90,
+      "spd": 54,
+      "spe": 80
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Buneary",
+    "slug": "buneary",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 66,
+      "def": 44,
+      "spa": 44,
+      "spd": 56,
+      "spe": 85
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Lopunny",
+    "slug": "lopunny",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 76,
+      "def": 84,
+      "spa": 54,
+      "spd": 96,
+      "spe": 105
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Mismagius",
+    "slug": "mismagius",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 60,
+      "spa": 105,
+      "spd": 105,
+      "spe": 105
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Honchkrow",
+    "slug": "honchkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 125,
+      "def": 52,
+      "spa": 105,
+      "spd": 52,
+      "spe": 71
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Glameow",
+    "slug": "glameow",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 49,
+      "atk": 55,
+      "def": 42,
+      "spa": 42,
+      "spd": 37,
+      "spe": 85
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Purugly",
+    "slug": "purugly",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 82,
+      "def": 64,
+      "spa": 64,
+      "spd": 59,
+      "spe": 112
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Chingling",
+    "slug": "chingling",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 50,
+      "spa": 65,
+      "spd": 50,
+      "spe": 45
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Stunky",
+    "slug": "stunky",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "atk": 63,
+      "def": 47,
+      "spa": 41,
+      "spd": 41,
+      "spe": 74
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Skuntank",
+    "slug": "skuntank",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 103,
+      "atk": 93,
+      "def": 67,
+      "spa": 71,
+      "spd": 61,
+      "spe": 84
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Bronzor",
+    "slug": "bronzor",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 57,
+      "atk": 24,
+      "def": 86,
+      "spa": 24,
+      "spd": 86,
+      "spe": 23
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Bronzong",
+    "slug": "bronzong",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 67,
+      "atk": 89,
+      "def": 116,
+      "spa": 79,
+      "spd": 116,
+      "spe": 33
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Bonsly",
+    "slug": "bonsly",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 80,
+      "def": 95,
+      "spa": 10,
+      "spd": 45,
+      "spe": 10
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Mime Jr.",
+    "slug": "mime-jr",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 20,
+      "atk": 25,
+      "def": 45,
+      "spa": 70,
+      "spd": 90,
+      "spe": 60
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Happiny",
+    "slug": "happiny",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 5,
+      "def": 5,
+      "spa": 15,
+      "spd": 65,
+      "spe": 30
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Chatot",
+    "slug": "chatot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 65,
+      "def": 45,
+      "spa": 92,
+      "spd": 42,
+      "spe": 91
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Spiritomb",
+    "slug": "spiritomb",
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 92,
+      "def": 108,
+      "spa": 92,
+      "spd": 108,
+      "spe": 35
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Gible",
+    "slug": "gible",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 70,
+      "def": 45,
+      "spa": 40,
+      "spd": 45,
+      "spe": 42
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Gabite",
+    "slug": "gabite",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 90,
+      "def": 65,
+      "spa": 50,
+      "spd": 55,
+      "spe": 82
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Garchomp",
+    "slug": "garchomp",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 108,
+      "atk": 130,
+      "def": 95,
+      "spa": 80,
+      "spd": 85,
+      "spe": 102
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Munchlax",
+    "slug": "munchlax",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 135,
+      "atk": 85,
+      "def": 40,
+      "spa": 40,
+      "spd": 85,
+      "spe": 5
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Riolu",
+    "slug": "riolu",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 70,
+      "def": 40,
+      "spa": 35,
+      "spd": 40,
+      "spe": 60
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Lucario",
+    "slug": "lucario",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 70,
+      "spa": 115,
+      "spd": 70,
+      "spe": 90
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas",
+    "slug": "hippopotas",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 72,
+      "def": 78,
+      "spa": 38,
+      "spd": 42,
+      "spe": 32
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Hippowdon",
+    "slug": "hippowdon",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 108,
+      "atk": 112,
+      "def": 118,
+      "spa": 68,
+      "spd": 72,
+      "spe": 47
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Skorupi",
+    "slug": "skorupi",
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 50,
+      "def": 90,
+      "spa": 30,
+      "spd": 55,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug",
+      "water3"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Drapion",
+    "slug": "drapion",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 110,
+      "spa": 60,
+      "spd": 75,
+      "spe": 95
+    },
+    "eggGroups": [
+      "bug",
+      "water3"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Croagunk",
+    "slug": "croagunk",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 61,
+      "def": 40,
+      "spa": 61,
+      "spd": 40,
+      "spe": 50
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Toxicroak",
+    "slug": "toxicroak",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 106,
+      "def": 65,
+      "spa": 86,
+      "spd": 65,
+      "spe": 85
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Carnivine",
+    "slug": "carnivine",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 74,
+      "atk": 100,
+      "def": 72,
+      "spa": 90,
+      "spd": 72,
+      "spe": 46
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Finneon",
+    "slug": "finneon",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 49,
+      "atk": 49,
+      "def": 56,
+      "spa": 49,
+      "spd": 61,
+      "spe": 66
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Lumineon",
+    "slug": "lumineon",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 69,
+      "atk": 69,
+      "def": 76,
+      "spa": 69,
+      "spd": 86,
+      "spe": 91
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Mantyke",
+    "slug": "mantyke",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 20,
+      "def": 50,
+      "spa": 60,
+      "spd": 120,
+      "spe": 50
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Snover",
+    "slug": "snover",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 62,
+      "def": 50,
+      "spa": 62,
+      "spd": 60,
+      "spe": 40
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Abomasnow",
+    "slug": "abomasnow",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 92,
+      "def": 75,
+      "spa": 92,
+      "spd": 85,
+      "spe": 60
+    },
+    "eggGroups": [
+      "monster",
+      "plant"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Weavile",
+    "slug": "weavile",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 120,
+      "def": 65,
+      "spa": 45,
+      "spd": 85,
+      "spe": 125
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Magnezone",
+    "slug": "magnezone",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 115,
+      "spa": 130,
+      "spd": 90,
+      "spe": 60
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Lickilicky",
+    "slug": "lickilicky",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 85,
+      "def": 95,
+      "spa": 80,
+      "spd": 95,
+      "spe": 50
+    },
+    "eggGroups": [
+      "monster"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Rhyperior",
+    "slug": "rhyperior",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 115,
+      "atk": 140,
+      "def": 130,
+      "spa": 55,
+      "spd": 55,
+      "spe": 40
+    },
+    "eggGroups": [
+      "monster",
+      "ground"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Tangrowth",
+    "slug": "tangrowth",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 125,
+      "spa": 110,
+      "spd": 50,
+      "spe": 50
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Electivire",
+    "slug": "electivire",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 123,
+      "def": 67,
+      "spa": 95,
+      "spd": 85,
+      "spe": 95
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Magmortar",
+    "slug": "magmortar",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 95,
+      "def": 67,
+      "spa": 125,
+      "spd": 95,
+      "spe": 83
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Togekiss",
+    "slug": "togekiss",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 50,
+      "def": 95,
+      "spa": 120,
+      "spd": 115,
+      "spe": 80
+    },
+    "eggGroups": [
+      "flying",
+      "fairy"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Yanmega",
+    "slug": "yanmega",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 86,
+      "atk": 76,
+      "def": 86,
+      "spa": 116,
+      "spd": 56,
+      "spe": 95
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Leafeon",
+    "slug": "leafeon",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 110,
+      "def": 130,
+      "spa": 60,
+      "spd": 65,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Glaceon",
+    "slug": "glaceon",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 110,
+      "spa": 130,
+      "spd": 95,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Gliscor",
+    "slug": "gliscor",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 95,
+      "def": 125,
+      "spa": 45,
+      "spd": 75,
+      "spe": 95
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Mamoswine",
+    "slug": "mamoswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 130,
+      "def": 80,
+      "spa": 70,
+      "spd": 60,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Porygon-Z",
+    "slug": "porygon-z",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 80,
+      "def": 70,
+      "spa": 135,
+      "spd": 75,
+      "spe": 90
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Gallade",
+    "slug": "gallade",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 125,
+      "def": 65,
+      "spa": 65,
+      "spd": 115,
+      "spe": 80
+    },
+    "eggGroups": [
+      "humanshape",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Probopass",
+    "slug": "probopass",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 145,
+      "spa": 75,
+      "spd": 150,
+      "spe": 40
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Dusknoir",
+    "slug": "dusknoir",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 100,
+      "def": 135,
+      "spa": 65,
+      "spd": 135,
+      "spe": 45
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Froslass",
+    "slug": "froslass",
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 70,
+      "spa": 80,
+      "spd": 70,
+      "spe": 110
+    },
+    "eggGroups": [
+      "fairy",
+      "mineral"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Rotom",
+    "slug": "rotom",
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 77,
+      "spa": 95,
+      "spd": 77,
+      "spe": 91
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Uxie",
+    "slug": "uxie",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 130,
+      "spa": 75,
+      "spd": 130,
+      "spe": 95
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Mesprit",
+    "slug": "mesprit",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 105,
+      "spa": 105,
+      "spd": 105,
+      "spe": 80
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Azelf",
+    "slug": "azelf",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 70,
+      "spa": 125,
+      "spd": 70,
+      "spe": 115
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Dialga",
+    "slug": "dialga",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 120,
+      "def": 120,
+      "spa": 150,
+      "spd": 100,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Palkia",
+    "slug": "palkia",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 120,
+      "def": 100,
+      "spa": 150,
+      "spd": 120,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Heatran",
+    "slug": "heatran",
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 90,
+      "def": 106,
+      "spa": 130,
+      "spd": 106,
+      "spe": 77
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Regigigas",
+    "slug": "regigigas",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 160,
+      "def": 110,
+      "spa": 80,
+      "spd": 110,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Giratina",
+    "slug": "giratina-altered",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 150,
+      "atk": 100,
+      "def": 120,
+      "spa": 100,
+      "spd": 120,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Cresselia",
+    "slug": "cresselia",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 70,
+      "def": 110,
+      "spa": 75,
+      "spd": 120,
+      "spe": 85
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Phione",
+    "slug": "phione",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spa": 80,
+      "spd": 80,
+      "spe": 80
+    },
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Manaphy",
+    "slug": "manaphy",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "water1",
+      "fairy"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Darkrai",
+    "slug": "darkrai",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 90,
+      "spa": 135,
+      "spd": 90,
+      "spe": 125
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Shaymin",
+    "slug": "shaymin-land",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Arceus",
+    "slug": "arceus",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 120,
+      "def": 120,
+      "spa": 120,
+      "spd": 120,
+      "spe": 120
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Victini",
+    "slug": "victini",
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Snivy",
+    "slug": "snivy",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 45,
+      "def": 55,
+      "spa": 45,
+      "spd": 55,
+      "spe": 63
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Servine",
+    "slug": "servine",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 75,
+      "spa": 60,
+      "spd": 75,
+      "spe": 83
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Serperior",
+    "slug": "serperior",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 95,
+      "spa": 75,
+      "spd": 95,
+      "spe": 113
+    },
+    "eggGroups": [
+      "ground",
+      "plant"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Tepig",
+    "slug": "tepig",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 63,
+      "def": 45,
+      "spa": 45,
+      "spd": 45,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Pignite",
+    "slug": "pignite",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 93,
+      "def": 55,
+      "spa": 70,
+      "spd": 55,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Emboar",
+    "slug": "emboar",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 123,
+      "def": 65,
+      "spa": 100,
+      "spd": 65,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Oshawott",
+    "slug": "oshawott",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 55,
+      "def": 45,
+      "spa": 63,
+      "spd": 45,
+      "spe": 45
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Dewott",
+    "slug": "dewott",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 60,
+      "spa": 83,
+      "spd": 60,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Samurott",
+    "slug": "samurott",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 100,
+      "def": 85,
+      "spa": 108,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Patrat",
+    "slug": "patrat",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 55,
+      "def": 39,
+      "spa": 35,
+      "spd": 39,
+      "spe": 42
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Watchog",
+    "slug": "watchog",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 69,
+      "spa": 60,
+      "spd": 69,
+      "spe": 77
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Lillipup",
+    "slug": "lillipup",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 45,
+      "spa": 25,
+      "spd": 45,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Herdier",
+    "slug": "herdier",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 80,
+      "def": 65,
+      "spa": 35,
+      "spd": 65,
+      "spe": 60
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Stoutland",
+    "slug": "stoutland",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 110,
+      "def": 90,
+      "spa": 45,
+      "spd": 90,
+      "spe": 80
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Purrloin",
+    "slug": "purrloin",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 41,
+      "atk": 50,
+      "def": 37,
+      "spa": 50,
+      "spd": 37,
+      "spe": 66
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Liepard",
+    "slug": "liepard",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 88,
+      "def": 50,
+      "spa": 88,
+      "spd": 50,
+      "spe": 106
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Pansage",
+    "slug": "pansage",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 53,
+      "def": 48,
+      "spa": 53,
+      "spd": 48,
+      "spe": 64
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Simisage",
+    "slug": "simisage",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Pansear",
+    "slug": "pansear",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 53,
+      "def": 48,
+      "spa": 53,
+      "spd": 48,
+      "spe": 64
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Simisear",
+    "slug": "simisear",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Panpour",
+    "slug": "panpour",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 53,
+      "def": 48,
+      "spa": 53,
+      "spd": 48,
+      "spe": 64
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Simipour",
+    "slug": "simipour",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Munna",
+    "slug": "munna",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 25,
+      "def": 45,
+      "spa": 67,
+      "spd": 55,
+      "spe": 24
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Musharna",
+    "slug": "musharna",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 116,
+      "atk": 55,
+      "def": 85,
+      "spa": 107,
+      "spd": 95,
+      "spe": 29
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Pidove",
+    "slug": "pidove",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 55,
+      "def": 50,
+      "spa": 36,
+      "spd": 30,
+      "spe": 43
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Tranquill",
+    "slug": "tranquill",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 62,
+      "atk": 77,
+      "def": 62,
+      "spa": 50,
+      "spd": 42,
+      "spe": 65
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Unfezant",
+    "slug": "unfezant",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 115,
+      "def": 80,
+      "spa": 65,
+      "spd": 55,
+      "spe": 93
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Blitzle",
+    "slug": "blitzle",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 60,
+      "def": 32,
+      "spa": 50,
+      "spd": 32,
+      "spe": 76
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Zebstrika",
+    "slug": "zebstrika",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 63,
+      "spa": 80,
+      "spd": 63,
+      "spe": 116
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Roggenrola",
+    "slug": "roggenrola",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 75,
+      "def": 85,
+      "spa": 25,
+      "spd": 25,
+      "spe": 15
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Boldore",
+    "slug": "boldore",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 105,
+      "def": 105,
+      "spa": 50,
+      "spd": 40,
+      "spe": 20
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Gigalith",
+    "slug": "gigalith",
+    "types": [
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 135,
+      "def": 130,
+      "spa": 60,
+      "spd": 80,
+      "spe": 25
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Woobat",
+    "slug": "woobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 45,
+      "def": 43,
+      "spa": 55,
+      "spd": 43,
+      "spe": 72
+    },
+    "eggGroups": [
+      "ground",
+      "flying"
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Swoobat",
+    "slug": "swoobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 67,
+      "atk": 57,
+      "def": 55,
+      "spa": 77,
+      "spd": 55,
+      "spe": 114
+    },
+    "eggGroups": [
+      "ground",
+      "flying"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Drilbur",
+    "slug": "drilbur",
+    "types": [
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 40,
+      "spa": 30,
+      "spd": 45,
+      "spe": 68
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 530,
+    "name": "Excadrill",
+    "slug": "excadrill",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 135,
+      "def": 60,
+      "spa": 50,
+      "spd": 65,
+      "spe": 88
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Audino",
+    "slug": "audino",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 103,
+      "atk": 60,
+      "def": 86,
+      "spa": 60,
+      "spd": 86,
+      "spe": 50
+    },
+    "eggGroups": [
+      "fairy"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Timburr",
+    "slug": "timburr",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 55,
+      "spa": 25,
+      "spd": 35,
+      "spe": 35
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Gurdurr",
+    "slug": "gurdurr",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 105,
+      "def": 85,
+      "spa": 40,
+      "spd": 50,
+      "spe": 40
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 534,
+    "name": "Conkeldurr",
+    "slug": "conkeldurr",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 140,
+      "def": 95,
+      "spa": 55,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Tympole",
+    "slug": "tympole",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 40,
+      "spa": 50,
+      "spd": 40,
+      "spe": 64
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Palpitoad",
+    "slug": "palpitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 65,
+      "def": 55,
+      "spa": 65,
+      "spd": 55,
+      "spe": 69
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 537,
+    "name": "Seismitoad",
+    "slug": "seismitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 95,
+      "def": 75,
+      "spa": 85,
+      "spd": 75,
+      "spe": 74
+    },
+    "eggGroups": [
+      "water1"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Throh",
+    "slug": "throh",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 100,
+      "def": 85,
+      "spa": 30,
+      "spd": 85,
+      "spe": 45
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Sawk",
+    "slug": "sawk",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 75,
+      "spa": 30,
+      "spd": 75,
+      "spe": 85
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Sewaddle",
+    "slug": "sewaddle",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 53,
+      "def": 70,
+      "spa": 40,
+      "spd": 60,
+      "spe": 42
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Swadloon",
+    "slug": "swadloon",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 63,
+      "def": 90,
+      "spa": 50,
+      "spd": 80,
+      "spe": 42
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "Leavanny",
+    "slug": "leavanny",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 103,
+      "def": 80,
+      "spa": 70,
+      "spd": 80,
+      "spe": 92
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Venipede",
+    "slug": "venipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 45,
+      "def": 59,
+      "spa": 30,
+      "spd": 39,
+      "spe": 57
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Whirlipede",
+    "slug": "whirlipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 99,
+      "spa": 40,
+      "spd": 79,
+      "spe": 47
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Scolipede",
+    "slug": "scolipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 100,
+      "def": 89,
+      "spa": 55,
+      "spd": 69,
+      "spe": 112
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Cottonee",
+    "slug": "cottonee",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 27,
+      "def": 60,
+      "spa": 37,
+      "spd": 50,
+      "spe": 66
+    },
+    "eggGroups": [
+      "plant",
+      "fairy"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Whimsicott",
+    "slug": "whimsicott",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 67,
+      "def": 85,
+      "spa": 77,
+      "spd": 75,
+      "spe": 116
+    },
+    "eggGroups": [
+      "plant",
+      "fairy"
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Petilil",
+    "slug": "petilil",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 35,
+      "def": 50,
+      "spa": 70,
+      "spd": 50,
+      "spe": 30
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Lilligant",
+    "slug": "lilligant",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 60,
+      "def": 75,
+      "spa": 110,
+      "spd": 75,
+      "spe": 90
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Basculin",
+    "slug": "basculin-red-striped",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 92,
+      "def": 65,
+      "spa": 80,
+      "spd": 55,
+      "spe": 98
+    },
+    "eggGroups": [
+      "water2"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Sandile",
+    "slug": "sandile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 72,
+      "def": 35,
+      "spa": 35,
+      "spd": 35,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Krokorok",
+    "slug": "krokorok",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 82,
+      "def": 45,
+      "spa": 45,
+      "spd": 45,
+      "spe": 74
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 553,
+    "name": "Krookodile",
+    "slug": "krookodile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 117,
+      "def": 80,
+      "spa": 65,
+      "spd": 70,
+      "spe": 92
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Darumaka",
+    "slug": "darumaka",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 45,
+      "spa": 15,
+      "spd": 45,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Darmanitan",
+    "slug": "darmanitan-standard",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 140,
+      "def": 55,
+      "spa": 30,
+      "spd": 55,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Maractus",
+    "slug": "maractus",
+    "types": [
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 86,
+      "def": 67,
+      "spa": 106,
+      "spd": 67,
+      "spe": 60
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Dwebble",
+    "slug": "dwebble",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 85,
+      "spa": 35,
+      "spd": 35,
+      "spe": 55
+    },
+    "eggGroups": [
+      "bug",
+      "mineral"
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Crustle",
+    "slug": "crustle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 105,
+      "def": 125,
+      "spa": 65,
+      "spd": 75,
+      "spe": 45
+    },
+    "eggGroups": [
+      "bug",
+      "mineral"
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Scraggy",
+    "slug": "scraggy",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 70,
+      "spa": 35,
+      "spd": 70,
+      "spe": 48
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "id": 560,
+    "name": "Scrafty",
+    "slug": "scrafty",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 115,
+      "spa": 45,
+      "spd": 115,
+      "spe": 58
+    },
+    "eggGroups": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Sigilyph",
+    "slug": "sigilyph",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 58,
+      "def": 80,
+      "spa": 103,
+      "spd": 80,
+      "spe": 97
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Yamask",
+    "slug": "yamask",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 38,
+      "atk": 30,
+      "def": 85,
+      "spa": 55,
+      "spd": 65,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 563,
+    "name": "Cofagrigus",
+    "slug": "cofagrigus",
+    "types": [
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 50,
+      "def": 145,
+      "spa": 95,
+      "spd": 105,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Tirtouga",
+    "slug": "tirtouga",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 54,
+      "atk": 78,
+      "def": 103,
+      "spa": 53,
+      "spd": 45,
+      "spe": 22
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Carracosta",
+    "slug": "carracosta",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "baseStats": {
+      "hp": 74,
+      "atk": 108,
+      "def": 133,
+      "spa": 83,
+      "spd": 65,
+      "spe": 32
+    },
+    "eggGroups": [
+      "water1",
+      "water3"
+    ]
+  },
+  {
+    "id": 566,
+    "name": "Archen",
+    "slug": "archen",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 112,
+      "def": 45,
+      "spa": 74,
+      "spd": 45,
+      "spe": 70
+    },
+    "eggGroups": [
+      "flying",
+      "water3"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Archeops",
+    "slug": "archeops",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 140,
+      "def": 65,
+      "spa": 112,
+      "spd": 65,
+      "spe": 110
+    },
+    "eggGroups": [
+      "flying",
+      "water3"
+    ]
+  },
+  {
+    "id": 568,
+    "name": "Trubbish",
+    "slug": "trubbish",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 62,
+      "spa": 40,
+      "spd": 62,
+      "spe": 65
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Garbodor",
+    "slug": "garbodor",
+    "types": [
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 95,
+      "def": 82,
+      "spa": 60,
+      "spd": 82,
+      "spe": 75
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Zorua",
+    "slug": "zorua",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 65,
+      "def": 40,
+      "spa": 80,
+      "spd": 40,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Zoroark",
+    "slug": "zoroark",
+    "types": [
+      "dark"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 105,
+      "def": 60,
+      "spa": 120,
+      "spd": 60,
+      "spe": 105
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Minccino",
+    "slug": "minccino",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 50,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 75
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Cinccino",
+    "slug": "cinccino",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 95,
+      "def": 60,
+      "spa": 65,
+      "spd": 60,
+      "spe": 115
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Gothita",
+    "slug": "gothita",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 50,
+      "spa": 55,
+      "spd": 65,
+      "spe": 45
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Gothorita",
+    "slug": "gothorita",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 70,
+      "spa": 75,
+      "spd": 85,
+      "spe": 55
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Gothitelle",
+    "slug": "gothitelle",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 55,
+      "def": 95,
+      "spa": 95,
+      "spd": 110,
+      "spe": 65
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Solosis",
+    "slug": "solosis",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 40,
+      "spa": 105,
+      "spd": 50,
+      "spe": 20
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 578,
+    "name": "Duosion",
+    "slug": "duosion",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 40,
+      "def": 50,
+      "spa": 125,
+      "spd": 60,
+      "spe": 30
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 579,
+    "name": "Reuniclus",
+    "slug": "reuniclus",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 65,
+      "def": 75,
+      "spa": 125,
+      "spd": 85,
+      "spe": 30
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Ducklett",
+    "slug": "ducklett",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 62,
+      "atk": 44,
+      "def": 50,
+      "spa": 44,
+      "spd": 50,
+      "spe": 55
+    },
+    "eggGroups": [
+      "water1",
+      "flying"
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Swanna",
+    "slug": "swanna",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 87,
+      "def": 63,
+      "spa": 87,
+      "spd": 63,
+      "spe": 98
+    },
+    "eggGroups": [
+      "water1",
+      "flying"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "Vanillite",
+    "slug": "vanillite",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 36,
+      "atk": 50,
+      "def": 50,
+      "spa": 65,
+      "spd": 60,
+      "spe": 44
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "Vanillish",
+    "slug": "vanillish",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 51,
+      "atk": 65,
+      "def": 65,
+      "spa": 80,
+      "spd": 75,
+      "spe": 59
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "Vanilluxe",
+    "slug": "vanilluxe",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 95,
+      "def": 85,
+      "spa": 110,
+      "spd": 95,
+      "spe": 79
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Deerling",
+    "slug": "deerling",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 75
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Sawsbuck",
+    "slug": "sawsbuck",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 70,
+      "spa": 60,
+      "spd": 70,
+      "spe": 95
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Emolga",
+    "slug": "emolga",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 75,
+      "def": 60,
+      "spa": 75,
+      "spd": 60,
+      "spe": 103
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Karrablast",
+    "slug": "karrablast",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 45,
+      "spa": 40,
+      "spd": 45,
+      "spe": 60
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Escavalier",
+    "slug": "escavalier",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 135,
+      "def": 105,
+      "spa": 60,
+      "spd": 105,
+      "spe": 20
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Foongus",
+    "slug": "foongus",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 69,
+      "atk": 55,
+      "def": 45,
+      "spa": 55,
+      "spd": 55,
+      "spe": 15
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 591,
+    "name": "Amoonguss",
+    "slug": "amoonguss",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "baseStats": {
+      "hp": 114,
+      "atk": 85,
+      "def": 70,
+      "spa": 85,
+      "spd": 80,
+      "spe": 30
+    },
+    "eggGroups": [
+      "plant"
+    ]
+  },
+  {
+    "id": 592,
+    "name": "Frillish",
+    "slug": "frillish-male",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 40,
+      "def": 50,
+      "spa": 65,
+      "spd": 85,
+      "spe": 40
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Jellicent",
+    "slug": "jellicent-male",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 60,
+      "def": 70,
+      "spa": 85,
+      "spd": 105,
+      "spe": 60
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 594,
+    "name": "Alomomola",
+    "slug": "alomomola",
+    "types": [
+      "water"
+    ],
+    "baseStats": {
+      "hp": 165,
+      "atk": 75,
+      "def": 80,
+      "spa": 40,
+      "spd": 45,
+      "spe": 65
+    },
+    "eggGroups": [
+      "water1",
+      "water2"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Joltik",
+    "slug": "joltik",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 47,
+      "def": 50,
+      "spa": 57,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 596,
+    "name": "Galvantula",
+    "slug": "galvantula",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 77,
+      "def": 60,
+      "spa": 97,
+      "spd": 60,
+      "spe": 108
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Ferroseed",
+    "slug": "ferroseed",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 50,
+      "def": 91,
+      "spa": 24,
+      "spd": 86,
+      "spe": 10
+    },
+    "eggGroups": [
+      "plant",
+      "mineral"
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Ferrothorn",
+    "slug": "ferrothorn",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 74,
+      "atk": 94,
+      "def": 131,
+      "spa": 54,
+      "spd": 116,
+      "spe": 20
+    },
+    "eggGroups": [
+      "plant",
+      "mineral"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Klink",
+    "slug": "klink",
+    "types": [
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 70,
+      "spa": 45,
+      "spd": 60,
+      "spe": 30
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Klang",
+    "slug": "klang",
+    "types": [
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 95,
+      "spa": 70,
+      "spd": 85,
+      "spe": 50
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Klinklang",
+    "slug": "klinklang",
+    "types": [
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 100,
+      "def": 115,
+      "spa": 70,
+      "spd": 85,
+      "spe": 90
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Tynamo",
+    "slug": "tynamo",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 45,
+      "spd": 40,
+      "spe": 60
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Eelektrik",
+    "slug": "eelektrik",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 85,
+      "def": 70,
+      "spa": 75,
+      "spd": 70,
+      "spe": 40
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Eelektross",
+    "slug": "eelektross",
+    "types": [
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 115,
+      "def": 80,
+      "spa": 105,
+      "spd": 80,
+      "spe": 50
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Elgyem",
+    "slug": "elgyem",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 55,
+      "def": 55,
+      "spa": 85,
+      "spd": 55,
+      "spe": 30
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Beheeyem",
+    "slug": "beheeyem",
+    "types": [
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 75,
+      "spa": 125,
+      "spd": 95,
+      "spe": 40
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Litwick",
+    "slug": "litwick",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 30,
+      "def": 55,
+      "spa": 65,
+      "spd": 55,
+      "spe": 20
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Lampent",
+    "slug": "lampent",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 60,
+      "spa": 95,
+      "spd": 60,
+      "spe": 55
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Chandelure",
+    "slug": "chandelure",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 90,
+      "spa": 145,
+      "spd": 90,
+      "spe": 80
+    },
+    "eggGroups": [
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Axew",
+    "slug": "axew",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 46,
+      "atk": 87,
+      "def": 60,
+      "spa": 30,
+      "spd": 40,
+      "spe": 57
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "Fraxure",
+    "slug": "fraxure",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 66,
+      "atk": 117,
+      "def": 70,
+      "spa": 40,
+      "spd": 50,
+      "spe": 67
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "Haxorus",
+    "slug": "haxorus",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 147,
+      "def": 90,
+      "spa": 60,
+      "spd": 70,
+      "spe": 97
+    },
+    "eggGroups": [
+      "monster",
+      "dragon"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Cubchoo",
+    "slug": "cubchoo",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 70,
+      "def": 40,
+      "spa": 60,
+      "spd": 40,
+      "spe": 40
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Beartic",
+    "slug": "beartic",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 130,
+      "def": 80,
+      "spa": 70,
+      "spd": 80,
+      "spe": 50
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Cryogonal",
+    "slug": "cryogonal",
+    "types": [
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 50,
+      "def": 50,
+      "spa": 95,
+      "spd": 135,
+      "spe": 105
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Shelmet",
+    "slug": "shelmet",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 40,
+      "def": 85,
+      "spa": 40,
+      "spd": 65,
+      "spe": 25
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 617,
+    "name": "Accelgor",
+    "slug": "accelgor",
+    "types": [
+      "bug"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 40,
+      "spa": 100,
+      "spd": 60,
+      "spe": 145
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 618,
+    "name": "Stunfisk",
+    "slug": "stunfisk",
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 109,
+      "atk": 66,
+      "def": 84,
+      "spa": 81,
+      "spd": 99,
+      "spe": 32
+    },
+    "eggGroups": [
+      "water1",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Mienfoo",
+    "slug": "mienfoo",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 85,
+      "def": 50,
+      "spa": 55,
+      "spd": 50,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Mienshao",
+    "slug": "mienshao",
+    "types": [
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 125,
+      "def": 60,
+      "spa": 95,
+      "spd": 60,
+      "spe": 105
+    },
+    "eggGroups": [
+      "ground",
+      "humanshape"
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Druddigon",
+    "slug": "druddigon",
+    "types": [
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 77,
+      "atk": 120,
+      "def": 90,
+      "spa": 60,
+      "spd": 90,
+      "spe": 48
+    },
+    "eggGroups": [
+      "dragon",
+      "monster"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "Golett",
+    "slug": "golett",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 59,
+      "atk": 74,
+      "def": 50,
+      "spa": 35,
+      "spd": 50,
+      "spe": 35
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Golurk",
+    "slug": "golurk",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "baseStats": {
+      "hp": 89,
+      "atk": 124,
+      "def": 80,
+      "spa": 55,
+      "spd": 80,
+      "spe": 55
+    },
+    "eggGroups": [
+      "mineral"
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Pawniard",
+    "slug": "pawniard",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 85,
+      "def": 70,
+      "spa": 40,
+      "spd": 40,
+      "spe": 60
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 625,
+    "name": "Bisharp",
+    "slug": "bisharp",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 125,
+      "def": 100,
+      "spa": 60,
+      "spd": 70,
+      "spe": 70
+    },
+    "eggGroups": [
+      "humanshape"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "Bouffalant",
+    "slug": "bouffalant",
+    "types": [
+      "normal"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 110,
+      "def": 95,
+      "spa": 40,
+      "spd": 95,
+      "spe": 55
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Rufflet",
+    "slug": "rufflet",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 83,
+      "def": 50,
+      "spa": 37,
+      "spd": 50,
+      "spe": 60
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Braviary",
+    "slug": "braviary",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 123,
+      "def": 75,
+      "spa": 57,
+      "spd": 75,
+      "spe": 80
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Vullaby",
+    "slug": "vullaby",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 55,
+      "def": 75,
+      "spa": 45,
+      "spd": 65,
+      "spe": 60
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Mandibuzz",
+    "slug": "mandibuzz",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 65,
+      "def": 105,
+      "spa": 55,
+      "spd": 95,
+      "spe": 80
+    },
+    "eggGroups": [
+      "flying"
+    ]
+  },
+  {
+    "id": 631,
+    "name": "Heatmor",
+    "slug": "heatmor",
+    "types": [
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 97,
+      "def": 66,
+      "spa": 105,
+      "spd": 66,
+      "spe": 65
+    },
+    "eggGroups": [
+      "ground"
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Durant",
+    "slug": "durant",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 109,
+      "def": 112,
+      "spa": 48,
+      "spd": 48,
+      "spe": 109
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Deino",
+    "slug": "deino",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "atk": 65,
+      "def": 50,
+      "spa": 45,
+      "spd": 50,
+      "spe": 38
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Zweilous",
+    "slug": "zweilous",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 85,
+      "def": 70,
+      "spa": 65,
+      "spd": 70,
+      "spe": 58
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Hydreigon",
+    "slug": "hydreigon",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 105,
+      "def": 90,
+      "spa": 125,
+      "spd": 90,
+      "spe": 98
+    },
+    "eggGroups": [
+      "dragon"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "Larvesta",
+    "slug": "larvesta",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 85,
+      "def": 55,
+      "spa": 50,
+      "spd": 55,
+      "spe": 60
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Volcarona",
+    "slug": "volcarona",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 60,
+      "def": 65,
+      "spa": 135,
+      "spd": 105,
+      "spe": 100
+    },
+    "eggGroups": [
+      "bug"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Cobalion",
+    "slug": "cobalion",
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 90,
+      "def": 129,
+      "spa": 90,
+      "spd": 72,
+      "spe": 108
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Terrakion",
+    "slug": "terrakion",
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 129,
+      "def": 90,
+      "spa": 72,
+      "spd": 90,
+      "spe": 108
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Virizion",
+    "slug": "virizion",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 90,
+      "def": 72,
+      "spa": 90,
+      "spd": 129,
+      "spe": 108
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Tornadus",
+    "slug": "tornadus-incarnate",
+    "types": [
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "atk": 115,
+      "def": 70,
+      "spa": 125,
+      "spd": 80,
+      "spe": 111
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Thundurus",
+    "slug": "thundurus-incarnate",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "atk": 115,
+      "def": 70,
+      "spa": 125,
+      "spd": 80,
+      "spe": 111
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Reshiram",
+    "slug": "reshiram",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 120,
+      "def": 100,
+      "spa": 150,
+      "spd": 120,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 644,
+    "name": "Zekrom",
+    "slug": "zekrom",
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 150,
+      "def": 120,
+      "spa": 120,
+      "spd": 100,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Landorus",
+    "slug": "landorus-incarnate",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "baseStats": {
+      "hp": 89,
+      "atk": 125,
+      "def": 90,
+      "spa": 115,
+      "spd": 80,
+      "spe": 101
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Kyurem",
+    "slug": "kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "baseStats": {
+      "hp": 125,
+      "atk": 130,
+      "def": 90,
+      "spa": 130,
+      "spd": 90,
+      "spe": 95
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Keldeo",
+    "slug": "keldeo-ordinary",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 72,
+      "def": 90,
+      "spa": 129,
+      "spd": 90,
+      "spe": 108
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Meloetta",
+    "slug": "meloetta-aria",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 77,
+      "def": 77,
+      "spa": 128,
+      "spd": 128,
+      "spe": 90
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  },
+  {
+    "id": 649,
+    "name": "Genesect",
+    "slug": "genesect",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 120,
+      "def": 95,
+      "spa": 120,
+      "spd": 95,
+      "spe": 99
+    },
+    "eggGroups": [
+      "no-eggs"
+    ]
+  }
+]
